@@ -1,2 +1,2 @@
 # CetiSpelunka
-Toy to experiment with the bungienet api
+Toy to spelunk the bungienet api
